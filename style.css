@@ -1,0 +1,155 @@
+.top{
+	margin: 0;
+padding: 0;
+width: 100%;
+background: rgb(47,62,81);
+overflow: hidden;
+box-sizing: border-box;
+}
+
+.logo{
+	margin: 0;
+padding: 0;
+width: 40%;
+float: left;
+box-sizing: border-box;
+color: white;
+font-family: sans-serif;
+padding-left: 50px;
+}
+
+.menu{
+	margin: 0;
+padding: 0;
+width: 30%;
+float: right;
+box-sizing: border-box;
+color: white;
+font-family: sans-serif;
+display: inline-block;
+}
+
+.menu ul li{
+	list-style: none;
+	display: inline-block;
+	margin:2px;
+}
+
+.slider{
+	margin: 0;
+padding: 0;
+width: 100%;
+background: rgb(86,187,155);
+text-align: center;
+height: 70vh;
+}
+
+.slider h1{
+	color: white;
+	font-family: sans-serif;
+}
+.slider h3{
+	color: white;
+	font-family: sans-serif;
+}
+
+.porto{
+	margin: 0;
+padding: 0;
+width: 100%;
+text-align: center;
+}
+
+.line1{
+	margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.line2{
+	margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.abt{
+	margin: 0;
+padding: 0;
+width: 100%;
+background: rgb(86,187,155);
+text-align: center;
+height: 60vh;
+}
+.abt p{
+	color: white;
+font-family: sans-serif;
+column-count: 2;
+}
+
+.abt h1{
+	color: white;
+font-family: sans-serif;
+padding-top: 70px;
+}
+
+.button{
+	color: white;
+background: rgb(66,188,157);
+
+font-family: sans-serif;
+padding: 15px;
+box-sizing: border-box;
+}
+
+.contact {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.contact h1 {
+    color: rgb(54,69,88);
+    font-family: sans-serif;
+    padding-top: 60px;
+}
+
+.contact form input {
+    margin: 0;
+    padding: 0;
+    border: none;
+    height: 50px;
+    width: 700px;
+    text-align: left;
+}
+
+.slider2 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background: rgb(45,62,80);
+    text-align: center;
+    display: inline-block;
+    color: white;
+}
+
+.a {
+    display: inline-block;
+    width: 30%;
+    color: white;
+}
+
+.b {
+    color: white;
+    font-family: sans-serif;
+    display: inline-block;
+width: 30%;
+vertical-align: top;
+}
+
+.c {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+}
